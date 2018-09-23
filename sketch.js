@@ -8,7 +8,7 @@ function setup() {
 
 function draw() {
 	background(204);
-fill(120,10,100);
+fill(0,10,100);
 
 	//Neck
 	line(250, 285, 250, 345);
